@@ -1,4 +1,4 @@
-# FASTIFY-SIMPLE-API API v1.0.0
+# FASTIFY-SIMPLE-API v1.0.0
 
 ### Feature
 - [x] check api
